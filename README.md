@@ -1,4 +1,4 @@
-一遍工作，一遍把这个小项目跟了下来，感谢scott的无私奉献
+一边工作，一边把这个小项目跟了下来，感谢scott的无私奉献
 我是最近才开始有计划学习node的，翻看文档，只了解到http、fs模块，然后开始跟着写项目
 node工作流方式、bower、mongodb、版本锁定是完全不懂的
 
@@ -26,3 +26,5 @@ npm模块：express（http框架）、bower(静态资源管理工具)、mongoose
 public 静态资源或库
 schememas mongodb数据库模式配置
 models 模型输出
+
+
