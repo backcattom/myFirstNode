@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "moment": "^2.19.1",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.33",
+    "jade": "^1.11.0",
+    "mongoose": "^4.11.13",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mooc"
+  ],
+  "author": "cj",
+  "license": "ISC"
+}
