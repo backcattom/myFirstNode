@@ -38,4 +38,20 @@ schememas mongodb数据库模式配置
 
 models 模型输出
 
+如何下载并运行这个项目：
 
+1、下载并安装git
+
+2、在某个盘自定文件夹（down），右键Git Bash Here
+
+3、运行 git clone https://github.com/backcattom/myFirstNode.git
+
+4、进入到 down/myFirstNode/文件夹
+
+5、看到bower.json和package.json 里面是项目运行的依赖库和对应的版本，运行项目，需要下载
+
+6、运行npm install 安装
+
+7、项目用到了数据库，运行需要mongodb，所以需要本地安装mongodb，并开启服务， 如何安装和运行mongodb（下载mongodb，选择自定义安装，目录短一点好，cd进入到安装目录的bin文件，运行mongod，即可开启mongodb服务）
+
+8、运行node app.js 即可运行项目
